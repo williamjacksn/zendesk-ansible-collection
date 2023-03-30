@@ -1,3 +1,3 @@
 # zendesk-ansible-collection
 
-An Ansible collection for configuring with Zendesk
+An Ansible collection for configuring Zendesk
